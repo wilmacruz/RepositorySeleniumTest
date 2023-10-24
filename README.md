@@ -1,11 +1,14 @@
 # RepositorySeleniumTest
-Una breve descripción de tu proyecto va aquí. Explica qué hace tu proyecto, qué utilidades podría tener y qué motivó su creación.
+Web Scraper Simple:
+
+Crea un script que utilice Selenium para extraer información de una página web. Puede ser algo tan sencillo como obtener el título de un artículo, precios de productos, o cualquier otra información relevante.
 
 # Comenzando
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 # Prerrequisitos
-Qué cosas necesitas para instalar el software y cómo instalarlas.
+Selenium Webdriver https://www.selenium.dev/downloads/
+Katilum
 
 # scss
 Copy code
