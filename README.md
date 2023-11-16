@@ -3,6 +3,7 @@ Web Scraper Simple:
 
 Crea un script que utilice Selenium para extraer información de una página web. Puede ser algo tan sencillo como obtener el título de un artículo, precios de productos, o cualquier otra información relevante.
 
+ejemplpo
 # Comenzando
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
