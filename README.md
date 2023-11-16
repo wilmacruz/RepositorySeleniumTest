@@ -9,6 +9,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 # Prerrequisitos
 Selenium Webdriver https://www.selenium.dev/downloads/
 Katilum
+java https://www.java.com/es/download/ie_manual.jsp
 
 # scss
 Copy code
@@ -16,13 +17,12 @@ Copy code
 - Maven (versión)
 - Navegador web (e.g., Chrome, Firefox)
 - [Opcional] IDE (e.g., IntelliJ, Eclipse)
-# Instalación
-Una serie de ejemplos paso a paso que te indican cómo configurar un entorno de desarrollo.
 
 bash
 Copy code
 # Clona el repositorio
 git clone https://github.com/usuario/nombre-del-proyecto.git
+git init 
 
 # Navega al directorio del proyecto
 cd nombre-del-proyecto
@@ -57,8 +57,8 @@ Por favor, lee CONTRIBUTING.md para detalles sobre nuestro código de conducta, 
 Explica qué sistema de versionado utilizas, si es aplicable.
 
 # Autores
-Nombre del Autor - Trabajo Inicial - PerfilDelAutor
-Ver también la lista de contribuidores que participaron en este proyecto.
+Wilma Cruz Serrudo
+https://www.linkedin.com/in/wilma-cruz-serrudo-0738a681/
 
 # Licencia
 Este proyecto está bajo la Licencia (Tu Licencia) - ve el archivo LICENSE.md para detalles.
