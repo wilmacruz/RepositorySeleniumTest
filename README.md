@@ -3,7 +3,8 @@ Web Scraper Simple:
 
 Crea un script que utilice Selenium para extraer información de una página web. Puede ser algo tan sencillo como obtener el título de un artículo, precios de productos, o cualquier otra información relevante.
 
-ejemplpo
+adicionando linea ejemplo
+
 # Comenzando
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
@@ -22,8 +23,7 @@ Copy code
 bash
 Copy code
 # Clona el repositorio
-git clone https://github.com/usuario/nombre-del-proyecto.git
-git init 
+git clone https://github.com/usuario/nombre-del-proyecto.git 
 
 # Navega al directorio del proyecto
 cd nombre-del-proyecto
